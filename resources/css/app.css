@@ -1,9 +1,8 @@
-
+/* 
     body {
       overflow: hidden;
     }
-
-    /* Icon diatas login */
+    
     .img_1 {
      background-image: url("/resources/views/Gambar/logopertamina.png");
       position: relative;
@@ -19,7 +18,6 @@
       margin-right: 10px;
     }
 
-    /* Foto yang disamping kiri */
     .img_icon {
       position: absolute;
       display: flex;
@@ -74,4 +72,4 @@
     .remember-forgot input {
       margin-top: 15px;
       margin-right: 740px;
-    }
+    } */
